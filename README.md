@@ -4,6 +4,12 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+### `npm install`
+for project libraries.
+
+### `npm audit fix`
+it fixes the some issues or fixs the errors
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
